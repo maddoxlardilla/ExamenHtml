@@ -1,0 +1,55 @@
+.contenedor{
+    height: 100vh;
+    
+    }
+    .flex-container {
+        display: flex;
+        width: 100%;
+        font-size: 30px;
+        height:30vh;
+        text-align: center;
+      }
+      .flex-item-left1{
+        background-color: rgb(126, 128, 121);
+        flex: 50%;
+        text-align: center;
+        
+      }
+      
+      .flex-item-left {
+        background-color: #b6781b;
+        flex: 50%;
+      }
+      
+      .flex-item-right {
+        background-color: rgb(192, 17, 55);
+        flex: 50%;
+        text-align: center;
+       
+    
+      }
+      .color-naranja{
+        background-color: rgb(12, 160, 123);
+        text-align: center;
+        
+    
+      }
+    .color-verde{
+        background-color: rgb(15, 66, 68);
+      
+        text-align: center;
+      
+    }
+    .color-morado{
+        background-color: rgb(2, 63, 50);
+       
+        text-align: center;
+       
+    }
+    
+    .altura-derecha{
+        height: 100vh;
+    }
+    .altura-izquierda{
+        height: 35vh;
+    }
